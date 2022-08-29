@@ -7,7 +7,7 @@
     "dotenv": "^16.0.1",
     "express": "^4.14.0",
     "fcc-express-bground": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git",
-    "mongoose": "^6.5.3"
+    "mongoose": "^5.11.15"
   },
   "main": "index.js",
   "scripts": {
